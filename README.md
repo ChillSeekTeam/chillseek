@@ -6,7 +6,7 @@ Machine learning to identify mechanical equipment on aerial images
 + When fulsome compute required, connect to Azure Virtual Machine
     + Rooftop CPUs for CPU compute
     + ***TBD*** for GPUs
-    + FOR CPU: command to upload / overwrite vm folders: scp -i ~/.ssh/{RooftopCPU Pem file} -r . rjskene@4.227.189.169:/home/rjskene/chillseek
+    + DO FIRST!!! FOR CPU: command to upload / overwrite vm folders: scp -i ~/.ssh/{RooftopCPU Pem file} -r . rjskene@4.227.189.169:/home/rjskene/chillseek
 
 #TO DO#
 
