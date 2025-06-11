@@ -330,6 +330,7 @@ pnpm-debug.log*
 *.hdf5
 *.pkl
 *.pickle
+*.geojson
 
 # Virtual environment
 .venv
@@ -351,7 +352,10 @@ ENV
 *.webp
 
 # Other Files
-.geojson
+*.geojson
+
+# Ignore the entire data folder
+data/
 
 # Include
 !devcontainer.json

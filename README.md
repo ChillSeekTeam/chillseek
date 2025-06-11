@@ -1,6 +1,9 @@
 # chillseek
 Machine learning to identify mechanical equipment on aerial images
 
+# PROJECT WORKFLOW #
++ Develop locally on devcontainer
++ When fulsome compute required, connect to Azure ML instance
 
 #TO DO#
 
