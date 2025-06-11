@@ -352,3 +352,6 @@ ENV
 
 # Other Files
 .geojson
+
+# Include
+!devcontainer.json
