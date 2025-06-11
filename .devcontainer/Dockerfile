@@ -2,8 +2,8 @@ FROM python:3.13.1-bookworm
 
 RUN pip install --upgrade pip
 
-ENV ROOT_FOLDER=/workspaces/rooftop
+ENV ROOT_FOLDER=/workspaces/chillseek
 
-COPY . /workspaces/rooftop
+COPY . /workspaces/chillseek
 
-WORKDIR /workspaces/rooftop
+WORKDIR /workspaces/chillseek
